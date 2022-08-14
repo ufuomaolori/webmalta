@@ -1,7 +1,7 @@
 <?php
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-define('DB_SERVER', 'marotech.mysql.database.azure.com');
+define('DB_SERVER', 'db-webmalta.mysql.database.azure.com');
 define('DB_USERNAME', 'admin1');
 define('DB_PASSWORD', 'Pa$$w0rd1234');
 define('DB_NAME', 'users');
